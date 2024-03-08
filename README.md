@@ -24,6 +24,8 @@ este es un texto normal
 - git commit -m "mensaje para identificar la version que estas subiendo "
 ```
 
+- git push
+
 ### images
 
 ![Perro Salchicha](./images/istockphoto-1137958103-612x612.jpg)
